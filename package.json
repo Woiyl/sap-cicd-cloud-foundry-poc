@@ -19,7 +19,8 @@
     "eslint": "^9"
   },
   "scripts": {
-    "start": "cds-serve"
+    "start": "cds-serve",
+    "test": "node --test"
   },
   "cds": {
     "requires": {
